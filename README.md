@@ -193,6 +193,9 @@ This allows users to track:
 - Changes in inventory composition
 - Overall stock trends
 
+<img width="1269" height="1240" alt="Blurred Planned Inventory Analysis Dashboard" src="https://github.com/user-attachments/assets/ca6720e7-4bf9-4848-96ce-2aefe6ab4618" />
+
+
 ---
 
 ## 📈 Key KPIs
@@ -294,4 +297,3 @@ Trend & Variance Analysis
 Dashboard Visualization
         ↓
 Supply Chain Insights# Planned-Inventory-Analysis
-<img width="1269" height="1240" alt="Blurred Planned Inventory Analysis Dashboard" src="https://github.com/user-attachments/assets/e14c3540-f0b7-4036-a06b-84acb9062d59" />
